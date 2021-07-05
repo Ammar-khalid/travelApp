@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="title">WHY GO NOW ? Climb through a sea of clouds </string>
+    <string name="sub_title">The Highlands s a historic region of Scotland Culturally, the Highlands and the Lowlands diverged from the later Middle Ages into the modern period, when Lowland Scots replaced Scottish Gaelic throughout most of the Lowlands.
+    </string>
+
+        <string name="Overview"><u>Overview</u></string>
+        <string name="review">             4.4 (2532 views)</string>
+</resources>
